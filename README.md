@@ -5,10 +5,10 @@ Computer Science/Economics
 Class of 2024
 University of Cincinnati 
 
-##Contact
+## Contact
 chitraaa@mail.uc.edu
 
-##Github
+## Github
 https://github.com/AnushaChitranshi
 
 
